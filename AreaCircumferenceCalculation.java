@@ -5,7 +5,7 @@ public class AlanHesap { /*Circle(daire),Square(kare),Rectangle(dikdörtgen)*/
     public static void main(String[] args) {
 
         double kareKenar, dikUzun,dikKısa;/*Burada alan ve çevre hesabında kullancağımız değişkenleri double atadık çünkü eğer uzunluk onladık olursa sıkıntı yaşamamak için*/
-        double Pi = 3.14, Cap;/*Pi değeri bizden 3.14 sabitinde almamızı istiyordu Math Kütüphanesinden almak yerinde bir değişken halinde atadım*/
+        double Pi = 3.14, Cap;/*Pi değeri bizden 3.14 sabitinde almamızı istiyordu Math Kütüphanesinden almak yerinde bir değişken halinde atadık*/
 
         Scanner girdi = new Scanner(System.in);
 
